@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Da'ad Alobaid 👋</h1>
 
-<h3 align="center">Junior computer science student at IAU in Saudi Arabia</h3>
+<h3 align="center">Senior computer science student at IAU in Saudi Arabia</h3>
 
-- 🌱 I’m currently learning **Web development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
